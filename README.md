@@ -1,3 +1,4 @@
-# Mon super projet
+# Exemple de structure pour un projet python
 
-une description
+Voici un exemple de structuration d'un projet python à l'aide de packages, 
+modules et classes.
